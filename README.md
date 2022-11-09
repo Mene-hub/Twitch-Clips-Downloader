@@ -1,9 +1,5 @@
-![bannerr](https://user-images.githubusercontent.com/72011313/187684623-178434ce-479c-4a14-976d-96abef84fb7c.png)
 
 Add-on aviable on **[microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/twitch-points-grabber/neogiolcgikjffanekkhendpeedoiika),**
-**[Frefox Add-on Store](https://addons.mozilla.org/it/firefox/addon/twitch-points-grabber/)**
-
-This extension will collect any channel points.
 
 ### compatibility
 
@@ -14,7 +10,8 @@ This extension will collect any channel points.
 
 In the profile settings, you can enable or disable the Extension:
 
-![readme_screen.png](https://github.com/Mene-hub/Twitch-Points-Grabber/blob/main/screen/readme_screen.png)
+![screen2](https://user-images.githubusercontent.com/72011313/200902796-45eda8ef-1b7f-4b43-a470-908b5f4db1e3.png)
+
 
 ### Debugging
 
